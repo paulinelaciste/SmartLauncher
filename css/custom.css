@@ -1,0 +1,71 @@
+.module.widget-handle{
+	border-left: 0px solid #ccc;
+}
+
+.background-image-holder {
+	background-position: 50% 110% !important;
+}
+.number-container {
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
+	background-color: #4cb377;
+	border-radius: 50px;
+	color: white;
+	font-size: 40px;
+	display: inline-block;
+}
+
+.title-align{
+	margin-left: 15px;
+	display: inline-block;
+	font-size: 40px;
+}
+
+.template-image{
+	max-width: 100%;
+	margin-top: 164px;
+}
+
+.template-block{
+	max-width: 100%;
+	height: auto;
+}
+
+.google-image{
+	max-width: 100%;
+	margin-top: 164px;
+}
+
+.peek-image{
+	max-width: 100%;
+	margin-top: 164px;
+}
+
+.btn{
+	color: white;
+	border: 0
+}
+
+.btn-success{
+	background-color: #4cb377;
+}
+
+.btn-primary{
+	background-color: #0100fc;
+	margin-top: 25px; 
+}
+
+.get-feedback{
+	margin-top: -45px;
+}
+section {
+	padding: 25px;
+}
+.first-container {
+	margin-top: 50px;
+}
+
+.qa-cost{
+	font-weight: bold;
+}
